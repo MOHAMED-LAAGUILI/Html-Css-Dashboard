@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/88b13884-8eb9-49f4-9598-6cd88626d548)
+
 # Windmill Dashboard
 
 A multi theme, completely accessible, with components and pages examples, ready for production dashboard.
